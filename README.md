@@ -26,6 +26,6 @@ pip install -r requirements.txt
 
 Create a .env file and add your API key:
 ```
-OPEN_API_KEY=your_api_key
+OPENAI_API_KEY=your_api_key
 ```
 
